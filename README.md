@@ -258,7 +258,7 @@ Step 1
 Download or clone the repository.
 
 ```
-git clone https://github.com/yourusername/safetrack.git
+git clone https://github.com/Ali-Hassan-542/Online-Tracking-Web-App.git
 ```
 
 Step 2
