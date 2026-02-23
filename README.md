@@ -360,17 +360,8 @@ Developers who build systems like this must ensure they follow:
 ---
 
 # Screenshots
-
-You can add screenshots of the application inside the images folder to help users understand how the project works.
-
-Example:
-
-images/home.png
-images/dashboard.png
-images/tracking.png
-
-Screenshots significantly improve the quality of a GitHub repository.
-
+![Image-1](https://github.com/Ali-Hassan-542/Online-Tracking-Web-App/blob/main/Image-1.jpg?raw=true)
+![Image-2](https://github.com/Ali-Hassan-542/Online-Tracking-Web-App/blob/main/image-2.jpg?raw=true)
 ---
 
 # Contributing
